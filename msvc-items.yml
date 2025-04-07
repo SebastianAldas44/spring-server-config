@@ -1,0 +1,4 @@
+configuracion:
+  rutas:
+    - permitidas: /test/**
+    - permitidas: /pruebas/**
