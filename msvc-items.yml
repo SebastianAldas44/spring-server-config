@@ -1,5 +1,5 @@
 configuracion:
   rutas:
     permitidas:
-    - /test/**
-    - /pruebas/**
+      - /test/**
+      - /pruebas/**
