@@ -3,5 +3,3 @@ configuracion:
     permitidas:
       - /test/**
       - /pruebas/**
-      - /usuarios/**
-      - /login
